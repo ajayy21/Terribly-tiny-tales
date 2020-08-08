@@ -1,5 +1,6 @@
 # Terribly-tiny-tales
 
+I have done only the frontend part using the html ,css ,javascript
 HTML.htmm
 
 <!DOCTYPE html>
